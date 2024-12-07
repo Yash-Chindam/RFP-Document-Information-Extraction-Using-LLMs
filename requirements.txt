@@ -1,0 +1,9 @@
+streamlit
+fastapi
+uvicorn
+huggingface_hub
+pypdf
+beautifulsoup4
+python-multipart
+python-dotenv
+
